@@ -6,5 +6,5 @@ test:
 
 production:
   adapter: redis
-  url: redis://h:p424c33905f6ff9ad8e7697d996591c093a83cca2d0e7cedc94c438601cc29693@ec2-35-172-5-233.compute-1.amazonaws.com:21889
+  url: redis://h:p424c33905f6ff9ad8e7697d996591c093a83cca2d0e7cedc94c438601cc29693@ec2-174-129-84-83.compute-1.amazonaws.com:9229
   # channel_prefix: backend_production
